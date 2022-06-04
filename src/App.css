@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+.manikaProfile {
+  background-color: #6d77e2;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

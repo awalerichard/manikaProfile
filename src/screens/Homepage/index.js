@@ -5,7 +5,7 @@ import Menu from "../../component/Menu";
 const Homepage = () => {
   return (
     <div>
-      <h1> Hello world</h1>
+      <Banner />
       <Menu />
     </div>
   );

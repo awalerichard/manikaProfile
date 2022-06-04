@@ -4,7 +4,11 @@ import React from "react";
 import Homepage from "../screens/Homepage";
 
 const MainNavigation = () => {
-  return <Homepage />;
+  return (
+    <div>
+      <Homepage />
+    </div>
+  );
 };
 
 export default MainNavigation;
